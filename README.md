@@ -1,4 +1,42 @@
+<h1 align="center">Hi 👋, I'm Gautham Ajay</h1>
+<h3 align="center">Final Year Computer Science Engineering Student | Tech Learner</h3>
 
+---
+
+### 👨‍💻 About Me
+- 🎓 CSE Student (4th Year Engineering)  
+- 💡 Passionate about **technology, coding, and innovation**  
+- 📚 Currently learning **software development and new technologies**  
+- 🚀 Interested in building impactful tech projects  
+
+---
+
+### 🛠️ Skills
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-gray?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+
+---
+
+### 📊 GitHub Stats
+![Gautham's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+---
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight)
+
+---
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com)
+
+---
+
+⭐ *Always learning, building, and improving in the world of technology.*
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/gaitham.ajay) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gautham_ajay_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gautham-ajay) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nss_sanskrit_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauthamajay911@gmail.com) 
 
